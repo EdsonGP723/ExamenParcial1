@@ -15,7 +15,13 @@
 				"D:/UnrealProjects/ExamenParcial1/Examen/Content/Characters/Mannequin_UE4/Animations/AI/AB_Enemy.uasset",
 				"D:/UnrealProjects/ExamenParcial1/Examen/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/B1/KQVXAV7LSJF4A2TP1XM0RX.uasset",
 				"D:/UnrealProjects/ExamenParcial1/Examen/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/1Z/E5QEIJW0P458VM32DUO5XN.uasset",
-				"D:/UnrealProjects/ExamenParcial1/Examen/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset"
+				"D:/UnrealProjects/ExamenParcial1/Examen/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"D:/UnrealProjects/ExamenParcial1/Examen/Content/TopDown/Blueprints/BP_EnemySpawner.uasset",
+				"D:/UnrealProjects/ExamenParcial1/Examen/Content/TopDown/Blueprints/BP_Coin.uasset",
+				"D:/UnrealProjects/ExamenParcial1/Examen/Content/TopDown/Blueprints/BP_CoinSpawner.uasset",
+				"D:/UnrealProjects/ExamenParcial1/Examen/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/43/HZPX0Y4J67VOR8AL0WCYSK.uasset",
+				"D:/UnrealProjects/ExamenParcial1/Examen/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/MY/BP0IGB3L409QLPDZB1C1GN.uasset",
+				"D:/UnrealProjects/ExamenParcial1/Examen/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/29/ZUJ1WK3P7XRCYJOWMHZAOO.uasset"
 			]
 		}
 	]
