@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealProjects/ExamenParcial1/Examen/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"D:/UnrealProjects/ExamenParcial1/Examen/Content/TopDown/Input/Actions/IA_MovmentExamen.uasset",
+				"D:/UnrealProjects/ExamenParcial1/Examen/Content/TopDown/Input/Actions/IA_JumpExamen.uasset",
+				"D:/UnrealProjects/ExamenParcial1/Examen/Content/TopDown/Input/IMC_Examen.uasset",
+				"D:/UnrealProjects/ExamenParcial1/Examen/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"D:/UnrealProjects/ExamenParcial1/Examen/Content/TopDown/Blueprints/BP_EnemyCharacter.uasset",
+				"D:/UnrealProjects/ExamenParcial1/Examen/Content/Characters/Mannequin_UE4/Animations/AI/WalkBlendSoace.uasset",
+				"D:/UnrealProjects/ExamenParcial1/Examen/Content/Characters/Mannequin_UE4/Animations/AI/AB_Enemy.uasset",
+				"D:/UnrealProjects/ExamenParcial1/Examen/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/B1/KQVXAV7LSJF4A2TP1XM0RX.uasset",
+				"D:/UnrealProjects/ExamenParcial1/Examen/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/1Z/E5QEIJW0P458VM32DUO5XN.uasset",
+				"D:/UnrealProjects/ExamenParcial1/Examen/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset"
+			]
+		}
+	]
+}
